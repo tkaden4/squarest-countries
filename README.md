@@ -6,6 +6,12 @@ Known bugged countries:
 * Fiji
 * ... Basically, any country that crosses the antemeridian
 
+## Definition of "Square Score"
+
+```
+Square Score = Area of Convex Hull / Area of Bounding Square
+```
+
 ## Rankings
 ```
 0. Suriname                                 0.7792621728593461
