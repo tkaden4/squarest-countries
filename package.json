@@ -1,0 +1,20 @@
+{
+  "name": "how-square",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@turf/helpers": "^6.3.0",
+    "@turf/turf": "^6.3.0",
+    "d3": "^6.7.0",
+    "fp-ts": "^2.10.4",
+    "load-json-file": "^6.2.0",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/d3": "^6.3.0",
+    "@types/lodash": "^4.14.168",
+    "@types/node": "^14.14.41",
+    "typescript": "^4.2.4"
+  }
+}
